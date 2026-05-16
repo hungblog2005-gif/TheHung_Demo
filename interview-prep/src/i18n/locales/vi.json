@@ -1,0 +1,52 @@
+{
+  "app": {
+    "title": "Chuẩn bị Phỏng vấn Kinh doanh",
+    "subtitle": "Làm chủ buổi phỏng vấn kinh doanh của bạn với các câu hỏi được tuyển chọn",
+    "switchLanguage": "Chuyển Ngôn ngữ",
+    "categories": {
+      "general": "Kinh doanh Chung",
+      "leadership": "Lãnh đạo & Quản lý",
+      "strategy": "Tư duy Chiến lược",
+      "ops": "Vận hành Xuất sắc"
+    },
+    "showAnswer": "Xem Đáp án",
+    "hideAnswer": "Ẩn Đáp án",
+    "yourAnswer": "Phản hồi chuyên nghiệp của bạn",
+    "send": "Gửi",
+    "continue": "Tiếp tục đến Lộ trình",
+    "roadmap": {
+      "title": "Lộ trình Học tập",
+      "mainTitle": "Hành trình Phát triển Chuyên nghiệp",
+      "mainSubtitle": "Theo dõi tiến trình và làm chủ nghệ thuật phỏng vấn kinh doanh.",
+      "steps": {
+        "selfIntro": {
+          "title": "Giới thiệu Bản thân",
+          "description": "Làm chủ ấn tượng đầu tiên và giới thiệu nền tảng chuyên môn."
+        },
+        "techExp": {
+          "title": "Kinh nghiệm Kỹ thuật",
+          "description": "Truyền đạt các dự án phức tạp và kỹ năng giải quyết vấn đề."
+        },
+        "culturalFit": {
+          "title": "Sự phù hợp Văn hóa & Kỹ năng mềm",
+          "description": "Hòa nhập với giá trị doanh nghiệp và giao tiếp đa văn hóa."
+        },
+        "salaryNeg": {
+          "title": "Đàm phán Lương & Phúc lợi",
+          "description": "Xây dựng chiến lược để đạt được gói đãi ngộ tốt nhất."
+        }
+      },
+      "status": {
+        "inProgress": "Đang thực hiện"
+      },
+      "action": "Bắt đầu Học"
+    },
+    "comingSoon": {
+      "title": "Sắp Ra Mắt",
+      "subtitle": "Chúng tôi đang nỗ lực cập nhật thêm nhiều tính năng thú vị mới!",
+      "description": "Đội ngũ của chúng tôi hiện đang nâng cấp hệ thống để mang lại trải nghiệm học tập tốt hơn. Chúng tôi sẽ thông báo cho bạn ngay khi các tính năng mới được ra mắt.",
+      "backHome": "Quay lại Trang chủ",
+      "stayTuned": "Hãy đón chờ nhé!"
+    }
+  }
+}

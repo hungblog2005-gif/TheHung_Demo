@@ -1,0 +1,52 @@
+{
+  "app": {
+    "title": "Business Interview Prep",
+    "subtitle": "Master your business interview with expert-curated questions",
+    "switchLanguage": "Switch Language",
+    "categories": {
+      "general": "General Business",
+      "leadership": "Leadership & Management",
+      "strategy": "Strategic Thinking",
+      "ops": "Operational Excellence"
+    },
+    "showAnswer": "Show Answer",
+    "hideAnswer": "Hide Answer",
+    "yourAnswer": "Your professional response",
+    "send": "Send",
+    "continue": "Continue to Roadmap",
+    "roadmap": {
+      "title": "Learning Roadmap",
+      "mainTitle": "Your Professional Journey",
+      "mainSubtitle": "Track your progress and master the art of the business interview.",
+      "steps": {
+        "selfIntro": {
+          "title": "Self-Introduction",
+          "description": "Mastering the first impression and professional background."
+        },
+        "techExp": {
+          "title": "Technical Experience",
+          "description": "Articulating complex projects and problem-solving skills."
+        },
+        "culturalFit": {
+          "title": "Cultural Fit & Soft Skills",
+          "description": "Aligning with corporate values and cross-cultural communication."
+        },
+        "salaryNeg": {
+          "title": "Salary & Benefit Negotiation",
+          "description": "Strategizing for the best possible compensation package."
+        }
+      },
+      "status": {
+        "inProgress": "In Progress"
+      },
+      "action": "Start Module"
+    },
+    "comingSoon": {
+      "title": "Coming Soon",
+      "subtitle": "We're working hard to bring you new and exciting features!",
+      "description": "Our team is currently updating the system to provide a better learning experience. We will notify you once the new features are live.",
+      "backHome": "Back to Home",
+      "stayTuned": "Stay Tuned"
+    }
+  }
+}
